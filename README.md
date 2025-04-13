@@ -1,7 +1,8 @@
-<!-- ## Hello there👋 -->
+## Hello there👋
+<!--
 <img src="https://github.com/user-attachments/assets/2cd60a45-0cd1-4082-b213-0948306861fd" alt="HelloThereGIF" width="300">
-
-Hello 👋 I'm Harsimrat from Canada, a problem solver by heart.
+-->
+I'm Harsimrat from Canada, a problem solver by heart.
 
 I coerce billions of unwilling electrons through silicon mazes using arcane incantations written in a language that looks like someone headbutted a keyboard. Sometimes, I whisper the sacred words of python or the forbidden runes of Javascript, and suddenly those reluctant electrons arrange themselves into "Uncaught TypeError: Cannot read properties of undefined (reading '10')". 
 The electrons don't understand why they're being forced to render pictures of cats saying 'I Can Has Cheezburger?' but they comply because I've bound them to my will with the ancient magic of semicolons and curly braces. 
